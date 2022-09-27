@@ -46,4 +46,8 @@ class Animes{
         else
             system.out.println("O anime não está sendo produzido nos dias atuais!\n");
     }
+    
+    public int AnosDesdeCriacao(){
+        return 2022-ano;
+    }
 }
